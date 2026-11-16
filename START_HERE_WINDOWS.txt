@@ -1,0 +1,12 @@
+INTERIM PROJECT — TC01 to TC08 only (24 variants)
+
+1. Install Node.js.
+2. Open PowerShell in this folder.
+3. Run: npm install
+4. Run: npx playwright install chromium
+5. Run: npm start
+6. Open: http://localhost:3000
+7. In a second terminal run: npm run experiment
+8. Run tests with: npm test
+
+Default experiment repetitions: 5. Expected labels remain UNVERIFIED until independent manual review.
